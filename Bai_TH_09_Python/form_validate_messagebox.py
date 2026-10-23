@@ -61,7 +61,6 @@ tk.Label(cua_so, text="Email:").grid(
 entry_email = tk.Entry(cua_so, width=30)
 entry_email.grid(row=2, column=1, padx=10, pady=10)
 
-
 tk.Button(
     cua_so,
     text="Submit",
